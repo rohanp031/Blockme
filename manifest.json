@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "blockme+",
+  "name": "blockme",
   "description": "Smart Pomodoro + website blocker with schedules, stats, streaks, quotes, puzzles, lo-fi sound, and badges.",
   "version": "1.0",
   "icons": { "16": "logo.png", "32": "logo.png", "64": "logo.png", "128": "logo.png" },
